@@ -94,6 +94,7 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                     <a href="https://facebook.com">Facebook</a>
+                    <a href="https://instagram.com">Instagram</a>
                 </div>
             </div>
         </div>
